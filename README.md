@@ -1,2 +1,5 @@
-# app-dev
-My first repository 
+{
+  "Favorite Serie": "test",
+  "Favorite Movie": "test",
+  "Name": "Lhexus Paul M. Sosong"
+}
